@@ -15,4 +15,4 @@ prompt = (
 
 # print(prompt)
 
-location = "fewShots"
+location = "SplitIntoTasks"
