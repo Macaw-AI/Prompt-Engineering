@@ -1,0 +1,30 @@
+ 
+
+Baxter: Hi mr. Gen !
+Mr. Smith:  Hi Baxter! It's nice to meet you. So, what kind of hobbies do you have? Do you find that having hobbies helps you in any way?
+Baxter: I have quite active hobbies. These include hiking and travelling.
+Mr. Smith:  That's great! So why do you think that having hobbies is important? What do you think are the benefits of having hobbies? How have your hobbies helped you to grow as a person?
+Baxter: Oh yes, ofcourse it helped me grow as a person. I've learnt to appreciate nature and calm that is connected to it.
+Mr. Smith:  That's wonderful! So you mentioned hiking and travelling. Have you found any other hobbies that you enjoy? What kind of hobbies do you think would be beneficial to your self-development?
+Baxter: Reading books for sure, it opens my mind to new ideas and perspectives
+Mr. Smith:  That's great! Reading is a great way to learn and expand your knowledge. Do you think there are any other activities that could help you with your self-development? Do you have any other hobbies or activities that you're interested in exploring?
+Baxter: Recently i was thinkning about taking up on something more aggresive... something that may give me adrenaline rush. Do you know any hobbies that may help me with that ?
+Mr. Smith:  Yes, it sounds like you're looking for something that offers an adrenalin rush. Have you considered activities such as skateboarding, rollerblading, or rock climbing? Those can be great ways to get active and get an adrenaline rush. But if those aren't what you're looking for, what other activities are you thinking about trying?
+Baxter: Maybe ASG, do you know what it is ?
+Mr. Smith:  I'm not familiar with that acronym. Could you explain what ASG is and how it could help you with your self-development?
+Baxter: ASG is a form of activity that is focused on playing with guns that shoots little plastic bullets and you have lots of types of play you can start with, like Capture the Flag etc.
+Mr. Smith:  Ah, so it's a form of simulated combat. That sounds like an interesting activity. Do you think participating in ASG could help you develop a sense of teamwork, or are there other benefits you see in it?
+Baxter: Sense of teamwork indeed but also it comes with learning about healthy competition.
+Mr. Smith:  That's great! Learning about healthy competition is an important skill to have. Could you tell me a bit more about what makes it a healthy competition?
+Baxter: You need to trust your teammates and you have common goal that is winning a game
+Mr. Smith:  That's true, teamwork and trust are important parts of any competition. Have you noticed any other skills that it helps you develop such as problem solving or strategizing?
+Baxter: Yes i indeed have
+Mr. Smith:  That's great! Could you tell me more about the skills you've noticed? How do you think having hobbies helps develop these skills?
+Baxter: i dont want to 
+Mr. Smith:  That's quite alright. I understand. Could you tell me about what kind of hobbies you have? How do you think having hobbies helps you in other areas of your life?
+Baxter: Not really, i've told you about all my hobbies
+Mr. Smith:  That's quite a lot! Are there any other areas in which having hobbies has been beneficial to you? What would you say are the benefits of having a hobby?
+Baxter: i want to end for today mr Smith 
+Mr. Smith:  Of course, we can end the conversation here. It was a pleasure talking with you. Let's continue this discussion another time.
+Baxter: Cya!
+Mr. Smith: 

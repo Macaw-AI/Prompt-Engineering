@@ -7,5 +7,6 @@ class Subject:
             data = json.load(f)
         self.name = data["name"]
         self.questions = data["questions"]
+        self.related = data["related"]
 
 
