@@ -1,8 +1,8 @@
 from backendComponents import Student, Teacher, Subject
 
 student = Student("Baxter", 15)
-teacher = Teacher("politeTeacher")
-subject = Subject("hobbies")
+teacher = Teacher("historyTeacher")
+subject = Subject("ancientHistory")
 
 
 #TODO: add length choice of conversation (it will change the amount of topics related to main one and slightly change the prompt)
